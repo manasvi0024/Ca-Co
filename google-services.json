@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "895930079185",
+    "firebase_url": "https://caco22-d319c-default-rtdb.firebaseio.com",
+    "project_id": "caco22-d319c",
+    "storage_bucket": "caco22-d319c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895930079185:android:da5b39f2d590fb4ed332f0",
+        "android_client_info": {
+          "package_name": "com.app.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArYw1dvylyoJn_IBF6j0PYNZ_l1a-roqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
